@@ -1,7 +1,5 @@
 # 梓宸の流量消耗器
 
----
-
 ![GitHub](https://img.shields.io/github/license/zi-c/DataConsumer?style=flat-square)
 ![Lines of Code](https://tokei.rs/b1/github/zi-c/DataConsumer?category=code&label=Lines%20of%20Code&style=flat-square)
 
