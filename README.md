@@ -4,7 +4,7 @@
 ![Lines of Code](https://tokei.rs/b1/github/zi-c/DataConsumer?category=code&label=Lines%20of%20Code&style=flat-square)
 
 ## 介绍
-本工具旨在通过多线程下载指定文件测试当前宽带/流量的稳定性，以及途径相关设备的稳定性。
+本工具旨在通过多线程下载指定文件测试当前宽带/流量的稳定性，以及途径相关设备的稳定性。<br>
 因为网页版的限制比较多，耗能也高，所以就使用Python3制作了这样一个工具。
 
 ## 功能
@@ -20,5 +20,5 @@
 
 ---
 
-设备运行内存占用公式：
+设备运行内存占用公式：<br>
 最大内存占用 = 线程数量 x 分块大小
